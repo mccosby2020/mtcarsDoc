@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/191943/c1147d3de2344fdf892b2ef487182b0d
+bundleId: https://api.rpubs.com/api/v1/document/191943/c1147d3de2344fdf892b2ef487182b0d
+url: http://rpubs.com/mccosby2020/191943
+when: 1466875209.15758
